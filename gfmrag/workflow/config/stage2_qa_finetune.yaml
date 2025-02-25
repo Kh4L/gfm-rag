@@ -19,8 +19,8 @@ datasets:
     - hotpotqa_train_example
   valid_names: # List of validation dataset names
     - hotpotqa_test
-    - musique_test
-    - 2wikimultihopqa_test
+    #- musique_test
+    #- 2wikimultihopqa_test
 
 # GFM model configuration
 model:
