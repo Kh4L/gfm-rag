@@ -1,5 +1,5 @@
 _target_: gfmrag.kg_construction.openie_model.LLMOPENIEModel
-llm_api: openai
-model_name: gpt-4o-mini
+llm_api: nvidia
+model_name: nvdev/meta/llama-3.3-70b-instruct
 max_ner_tokens: 300
 max_triples_tokens: 4096
